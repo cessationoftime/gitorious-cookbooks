@@ -1,3 +1,5 @@
+package 'exim4-base'
+package 'exim4-config'
 package 'exim4'
 
 template "/etc/exim4/update-exim4.conf.conf" do
