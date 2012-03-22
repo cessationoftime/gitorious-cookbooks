@@ -1,4 +1,4 @@
-ssation# Install procedures
+# Install procedures
 
 For installing Gitorious in latest Ubuntu 11.04 x86_64 stable using Opscode Chef for a completely automated process, follow these instructions:
 
