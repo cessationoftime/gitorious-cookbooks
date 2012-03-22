@@ -2,6 +2,7 @@
 
 For installing Gitorious in latest Ubuntu 11.04 x86_64 stable using Opscode Chef for a completely automated process, follow these instructions:
 
+    sudo -i
     apt-get update
     echo "gem: --no-rdoc --no-ri" > /etc/gemrc
     apt-get install -y ruby ruby-dev libruby build-essential ssl-cert git
